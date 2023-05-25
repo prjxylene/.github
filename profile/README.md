@@ -18,6 +18,10 @@ PrjXylene is a project to document as many Xilinx® FPGAs as possible in an effi
 
 For technical information and more details, view the [documentation].
 
+---
+
+<img src="https://gist.githubusercontent.com/lethalbit/527186ea218cb61f34e5b8b32b4f9e00/raw/1d5c2af8b09c345cdcdcf71348a135d4f1fc0a90/trans-banner.svg" width="100%" />
+<h3 align="center">Trans Rights Are Human Rights</h3>
 
 
 [prjxylene]: https://github.com/prjxylene/prjxylene
